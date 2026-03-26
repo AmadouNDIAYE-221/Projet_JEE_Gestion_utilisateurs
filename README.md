@@ -6,7 +6,7 @@
 
 ## Gestion Utilisateurs
 
-Cette application permet de gérer les utilisateurs : Ajouter, Modifier ou Supprimer un utilisateurs
+Cette application permet de gérer les utilisateurs : Ajouter, Modifier ou Supprimer un utilisateur
 
 ## Prérequis pour tester :
 
